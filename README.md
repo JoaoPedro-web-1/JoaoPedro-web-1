@@ -15,9 +15,7 @@ Também utilizo o GitHub para compartilhar meus **projetos, estudos e aprendizad
 * 🔐 Estudos em Defesa Cibernética
 
 * 🌐 Redes de computadores
-
-* 💻 Desenvolvimento de sistemas
-
+  
 * 🤖 Automação com Python
 
 * 🛡️ Segurança da Informação
