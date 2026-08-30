@@ -36,13 +36,12 @@ Também utilizo o GitHub para compartilhar meus **projetos, estudos e aprendizad
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-web-1&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-web-1&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-web-1&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-web-1&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
+
+---
 
 ---
 
