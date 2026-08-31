@@ -2,7 +2,7 @@
 
 🚀 **Estudante de Defesa Cibernética | Python & Tecnologia**
 
-Estou estudando **Defesa Cibernética**, com foco em **programação, segurança da informação e redes
+Estou estudando **Defesa Cibernética**, com foco em programação, segurança da informação e redes
 
 Também utilizo o GitHub para compartilhar meus **projetos, estudos e aprendizados**.
 
