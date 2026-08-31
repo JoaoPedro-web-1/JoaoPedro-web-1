@@ -31,5 +31,3 @@ Também utilizo o GitHub para compartilhar meus **projetos, estudos e aprendizad
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
-
-⭐ **Sempre buscando aprender, praticar e evoluir na área de Tecnologia e Cibersegurança.**
